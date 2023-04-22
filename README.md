@@ -1,4 +1,12 @@
-### Hi there 👋
+Hi there 👋
+
+About Me
+
+
+
+![LINKED IN][(https://img.shields.io/badge/linkedin-<Background Color>?style=for-the-badge&logo=linkedin&logoColor=blue)](https://res.cloudinary.com/practicaldev/image/fetch/s--chf73s-H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Linked_In-0077B5%3Fstyle%3Dfor-the-badge%26logo%3DLinkedIn%26logoColor%3Dwhite)
+
+Accomplishments:
 
 <!--
 **agreen8911/agreen8911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
