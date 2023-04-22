@@ -4,7 +4,7 @@ About Me
 
 
 
-![LINKEDIN](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=behance&logoColor=white)
+https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=behance&logoColor=white
 
 Accomplishments:
 
