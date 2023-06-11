@@ -1,7 +1,7 @@
 Hi 👋 My name is Adam Green 
 ===========================  
 
-Learning Full Stack Development (JavaScript, Node.js, HTML, CSS, React, SQL) 
+Full Stack Developer (JavaScript, Node.js, HTML, CSS, React, SQL) 
 -------------------------------------------------------------------  
 
 I have over a decade of experience across a diverse group of industries, including both military service as an Army officer, as well as sales and operations experience in the corporate sector. In the preponderance of these roles, I have led teams ranging from sizes of two to 120+ personnel and I have a passion for leading teams and developing both myself and others. In every position I’ve held, I was expected to own my area of expertise and ensure the successful execution of the organizations’ mission and objectives and key performance indicators. 
