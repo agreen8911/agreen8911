@@ -1,4 +1,4 @@
-![Software Engineer](https://github.com/kdb23/kdb23/assets/121531138/e3cb4edf-e3b2-434d-b3c2-6633d336328b)
+![Software Engineer]
 ### Hi 👋 My name is Adam
 
 Full Stack Developer (JavaScript, Node.js, HTML, CSS, React, SQL) 
@@ -15,6 +15,12 @@ Full Stack Developer (JavaScript, Node.js, HTML, CSS, React, SQL)
 
 ### Socials  <p align="left"> <a href="https://www.github.com/agreen8911" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/agreen01" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
+Additional Ways to Connect: 
+
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/agreen01/)
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto://greenap8@gmail.com)
+[![](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/agren8911/)
+
 ### Badges
 
 <b>My GitHub Stats</b>
@@ -24,11 +30,7 @@ Full Stack Developer (JavaScript, Node.js, HTML, CSS, React, SQL)
 Languages:<br>
 ![image](https://github.com/kdb23/kdb23/assets/121531138/c2fe8cb5-caa3-43a4-b593-1718985d87aa)
 
-Additional Ways to Connect: 
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/agreen01/)
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto://greenap8@gmail.com)
-[![](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/agren8911/)
 
 
 
