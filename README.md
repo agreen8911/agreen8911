@@ -1,4 +1,3 @@
-![Software Engineer]
 ### Hi 👋 My name is Adam
 
 Full Stack Developer (JavaScript, Node.js, HTML, CSS, React, SQL) 
@@ -18,8 +17,8 @@ Full Stack Developer (JavaScript, Node.js, HTML, CSS, React, SQL)
 Additional Ways to Connect: 
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/agreen01/)
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto://greenap8@gmail.com)
-[![](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/agren8911/)
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:greenap8@gmail.com)
+[![](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/agreen8911/)
 
 ### Badges
 
