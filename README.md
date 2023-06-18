@@ -26,8 +26,7 @@ Additional Ways to Connect:
 
 <a href="http://www.github.com/agreen8911"><img src="https://github-readme-stats.vercel.app/api?username=agreen8911&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="agreen8911's GitHub stats" /></a>
 
-Languages:<br>
-![image](https://github.com/kdb23/kdb23/assets/121531138/c2fe8cb5-caa3-43a4-b593-1718985d87aa)
+
 
 
 
