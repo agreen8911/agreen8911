@@ -1,17 +1,12 @@
-Hi 👋 My name is Adam Green 
-===========================  
+![Software Engineer](https://github.com/kdb23/kdb23/assets/121531138/e3cb4edf-e3b2-434d-b3c2-6633d336328b)
+### Hi 👋 My name is Adam
 
 Full Stack Developer (JavaScript, Node.js, HTML, CSS, React, SQL) 
 -------------------------------------------------------------------  
 
-I have over a decade of experience across a diverse group of industries, including both military service as an Army officer, as well as sales and operations experience in the corporate sector. In the preponderance of these roles, I have led teams ranging from sizes of two to 120+ personnel and I have a passion for leading teams and developing both myself and others. In every position I’ve held, I was expected to own my area of expertise and ensure the successful execution of the organizations’ mission and objectives and key performance indicators. 
-
-Over the course of my career I have gained many valuable skills, many of which I’ve been blessed to learn from incredible mentors and the men and women I’ve worked with. During my time in the military, I led in high stress environments and conducted in-depth analysis and provided recommendations to organizational leadership at multiple echelons. In the corporate sector, I have owned large sales territories and key accounts and was responsible for developing and expanding market share in these territories. In addition to maintaining and growing key relationships in these role, I also conducted market research, pricing analysis, provided leadership briefs, and created and maintained key partnerships in support of business growth. Additionally, I have experience in retail management leading 80%+ of the operations of a $40M store of a Fortune 100 company, including sales performance, replenishment, inventory management, and online fulfillment operations. 
-
-I believe it is critical in any role to understand how each department or role’s responsibilities contributes to the overall organization’s success and I take a very systems-thinking approach to any role that I do. I believe this not only enables a greater level of understanding and success for the role each employee conducts, but additionally enables professionals to be more proactive in critical thinking and problem solving, fosters greater collaboration, and promotes a more strategic level of thinking to plan further ahead and optimize both current and future performance at all levels.  
-
+* 🔭 I’m currently working on my AWS Solutions Architect - Associate certification & learning Python
+* 🌱 AI Enthusiast and exploring different ways to integrate it into web/app design
 * 🌍  I'm based in North Carolina 
-
 * ⚡  I love the outdoors - fishing, hiking, camping, kayaking….just about anything that involves outdoor activities!
 
 ### Skills  
@@ -25,3 +20,16 @@ I believe it is critical in any role to understand how each department or role�
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/agreen8911"><img src="https://github-readme-stats.vercel.app/api?username=agreen8911&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="agreen8911's GitHub stats" /></a>
+
+Languages:<br>
+![image](https://github.com/kdb23/kdb23/assets/121531138/c2fe8cb5-caa3-43a4-b593-1718985d87aa)
+
+Additional Ways to Connect: 
+
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/agreen01/)
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto://greenap8@gmail.com)
+[![](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/agren8911/)
+
+
+
+
