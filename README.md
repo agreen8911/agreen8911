@@ -1,3 +1,5 @@
+![Software Engineer] (https://github.com/agreen8911/AG_Assets/blob/main/Software%20Engineer%20with%20a%20passion%20for%20nature%20and(1).png?raw=true))
+
 ### Hi 👋 My name is Adam
 
 Full Stack Developer (JavaScript, Node.js, HTML, CSS, React, SQL) 
