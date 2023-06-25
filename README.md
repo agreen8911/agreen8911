@@ -1,9 +1,12 @@
+
+![Software Engineer with a passion for nature and(1)](https://github.com/agreen8911/agreen8911/assets/124797284/770f2aa7-ed2c-4841-96a5-c751e88c8558)
+
 ### Hi 👋 My name is Adam
 
-Full Stack Developer (JavaScript, Node.js, HTML, CSS, React, SQL) 
+Full Stack Developer (JavaScript, Node.js, HTML, CSS, React, PostgreSQL) 
 -------------------------------------------------------------------  
 
-* 🔭 I’m currently working on my AWS Solutions Architect - Associate certification & learning Python
+* 🔭 AWS Cloud Practitioner Certified and currently working on my AWS Solutions Architect - Associate certification & learning Python
 * 🌱 AI Enthusiast and exploring different ways to integrate it into web/app design
 * 🌍  I'm based in North Carolina 
 * ⚡  I love the outdoors - fishing, hiking, camping, kayaking….just about anything that involves outdoor activities!
