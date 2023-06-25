@@ -1,7 +1,3 @@
-
-![86B5F81E-1428-42AE-BE41-E1BB23BC7F7E_1_105_c](https://github.com/agreen8911/agreen8911/assets/124797284/eeb48c8f-ac25-4ee2-a8cb-83025ed9ff3f)
-
-
 ### Hi 👋 My name is Adam
 
 Full Stack Developer (JavaScript, Node.js, HTML, CSS, React, PostgreSQL) 
