@@ -1,9 +1,13 @@
 ### Hi 👋 My name is Adam
 
 Full Stack Developer (JavaScript, Node.js, HTML, CSS, React, PostgreSQL) 
+
+<p>Six months ago I transitioned from over a decade of leadership, sales, and project management experience across a diverse group of industries to pursue my passion of becoming a Software Engineer.  I graduated from Full Stack Academy's 19-week full time Software Engineer/Web Development Boot Camp and have continued to broaden my skillsets and pursue new opportunities to learn new technologies ever since!</p>
 -------------------------------------------------------------------  
 
-* 🔭 AWS Cloud Practitioner Certified and currently working on my AWS Solutions Architect - Associate certification & learning Python
+* 🔭 AWS Cloud Practitioner Certified (next goal: AWS Solutions Architect - Associate certification)
+* 🔭 Currently working on IBM Data Analytics Professional Certification (expected completion December 2023)
+* 🌱 Currently a member of Buildspace's Nights & Weekends S4 Program - building an app that helps users build tailored action plans leveraging the power of AI to help them accomplish their goals.  (Project completion 9/16/23)
 * 🌱 AI Enthusiast and exploring different ways to integrate it into web/app design
 * 🌍  I'm based in North Carolina 
 * ⚡  I love the outdoors - fishing, hiking, camping, kayaking….just about anything that involves outdoor activities!
