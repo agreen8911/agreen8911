@@ -2,7 +2,7 @@
 
 Full Stack Developer (JavaScript, Node.js, HTML, CSS, React, PostgreSQL) 
 
-<p>Six months ago I transitioned from over a decade of leadership, sales, and project management experience across a diverse group of industries to pursue my passion of becoming a Software Engineer.  I graduated from Full Stack Academy's 19-week full time Software Engineer/Web Development Boot Camp and have continued to broaden my skillsets and pursue new opportunities to learn new technologies ever since!</p>
+<p>A year and a half ago I transitioned from over a decade of leadership, sales, and project management experience across a diverse group of industries to pursue my passion of becoming a Software Engineer.  I graduated from Full Stack Academy's 19-week full time Software Engineer/Web Development Boot Camp and have continued to broaden my skillsets and pursue new opportunities to learn new technologies ever since!  Since then I was accepted into the University of North Carolina's Master of Applied Data Science (MADS) Program and I will gradute July 2025!</p>
 -------------------------------------------------------------------  
 
 * ⚡ Google Professional Machine Learning Engineer Certified
