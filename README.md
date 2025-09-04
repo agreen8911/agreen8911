@@ -1,6 +1,6 @@
 ### Hi 👋 My name is Adam
 
-Full Stack Developer (JavaScript, Node.js, HTML, CSS, React, PostgreSQL) | Master of Applied Data Science Student
+Full Stack Developer (JavaScript, Node.js, HTML, CSS, React, PostgreSQL) | Recent Gradudate from the University of North Carolina's Master of Applied Data Science program (2025)
 
 <p>Two years ago I transitioned from over a decade of leadership, sales, and project management experience across a diverse group of industries to pursue my passion of becoming a Software Engineer.  I graduated from Full Stack Academy's 19-week full time Software Engineer/Web Development Boot Camp and have continued to broaden my skillsets and pursue new opportunities to learn new technologies ever since!  Since then I was accepted into the University of North Carolina's Master of Applied Data Science (MADS) Program and I will gradute August 2025!</p>
 -------------------------------------------------------------------  
