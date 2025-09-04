@@ -1,6 +1,6 @@
 ### Hi 👋 My name is Adam
 
-Software Engineer | UNC Master of Applied Data Science | Passion for building and exploring the latest, especially AI & AR/VR.
+Software Engineer | UNC Master of Applied Data Science | Passion for building and exploring, especially AI & AR/VR.
 
 <p>A little over two years ago I transitioned from over a decade of leadership, sales, and project management experience across a diverse group of industries to pursue my passion of becoming a Software Engineer.  I have been interested in learning to code since 2015 and in 2023, I attended and graduated from Full Stack Academy's 19-week full time Software Engineer/Web Development Boot Camp where I learned full stack development (React, Express, Node, Postgres).  Since then, I have been working as a Front End Developer building and maintaining features for the company's website.  Since the bootcamp, my passion and excitement for AI has continuously been building, and I recently acheived my Masters of Applied Data Science from the University of North Carolina.</p>
 
